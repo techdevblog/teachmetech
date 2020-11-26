@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__;_n;_ex;_nx;_n_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid 'Oops! That page can&rsquo;t be found.'
+msgstr ""
+
+#: 404.php:18
+msgid 'It looks like nothing was found at this location. Maybe try one of the links below or a search?'
+msgstr ""
+
+#: comments.php:33
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:45
+#: comments.php:70
+msgid 'Comment navigation'
+msgstr ""
+
+#: comments.php:46
+#: comments.php:71
+msgid '&larr; Older Comments'
+msgstr ""
+
+#: comments.php:47
+#: comments.php:72
+msgid'Newer Comments &rarr;'
+msgstr ""
+
+#: comments.php:81
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:36
+msgid 'Copyright &copy 2018 Designed by UnboxThemes.'
+msgstr ""
+
+#: functions.php:42
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:43
+msgid 'Footer Links'
+msgstr ""
+
+#: functions.php:83
+msgid 'Sidebar'
+msgstr ""
+
+#: functions.php:93
+msgid 'Contact Widget'
+msgstr ""
+
+#: functions.php:94
+msgid 'Displays on the Home Page'
+msgstr ""
+
+#: functions.php:103
+msgid 'Footer Widget 1'
+msgstr ""
+
+#: functions.php:104
+#: functions.php:114
+#: functions.php:124
+msgid 'Used for footer widget area'
+msgstr ""
+
+#: functions.php:113
+msgid 'Footer Widget 2'
+msgstr ""
+
+#: functions.php:123
+msgid 'Footer Widget 2'
+msgstr ""
+
+#: page-templates/template-homepage.php:20
+msgid 'Read More'
+msgstr ""
+
+#: page-templates/template-homepage.php:20
+msgid 'Learn More'
+msgstr ""
+
+#: image.php:24
+msgid 'Previous'
+msgstr ""
+
+#: image.php:25
+msgid 'Next'
+msgstr ""
+
+#: image.php:81
+#: template-parts/content-page.php:17
+#: template-parts/content-single.php:23
+#: template-parts/content.php:55
+msgid 'Pages:'
+msgstr ""
+
+#: search.php:17
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: searchform.php:12
+msgid 'Search for:'
+msgstr ""
+
+#: searchform.php:13
+msgid 'Search...'
+msgstr ""
+
+#: searchform.php:15
+msgid 'Search'
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid 'Nothing Found'
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid 'Ready to publish your first post? <a href="%1$s">Get started here</a>.'
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: template-parts/content-page.php:11
+#: template-parts/content-single.php:12
+#: template-parts/content.php:9
+msgid 'Untitled'
+msgstr ""
+
+#: template-parts/content-page.php:22
+#: template-parts/content-single.php:37
+#: template-parts/content.php:29
+msgid 'Edit'
+msgstr ""
+
+#: template-parts/content.php:14
+msgid 'Leave a comment'
+msgstr ""
+
+#: template-parts/content.php:37
+#: template-parts/content.php:51
+msgid 'Continue reading'
+msgstr ""
+
+#: inc/customizer.php:22
+msgid '&lgash; Select &lgash;'
+msgstr ""
+
+#: inc/customizer.php:45
+msgid 'General options'
+msgstr ""
+
+#: inc/customizer.php:50
+msgid 'Topbar'
+msgstr ""
+
+#: inc/customizer.php:60
+msgid 'Location Text'
+msgstr ""
+
+#: inc/customizer.php:70
+msgid 'Location'
+msgstr ""
+
+#: inc/customizer.php:80
+msgid 'Opening Time Text'
+msgstr ""
+
+#: inc/customizer.php:90
+msgid 'Opening Time'
+msgstr ""
+
+#: inc/customizer.php:100
+msgid 'phone'
+msgstr ""
+
+#: inc/customizer.php:110
+msgid 'Phone Number'
+msgstr ""
+
+#: inc/customizer.php:117
+msgid 'Social Link'
+msgstr ""
+
+#: inc/customizer.php:127
+msgid 'Facebook link'
+msgstr ""
+
+#: inc/customizer.php:137
+msgid 'Twitter link'
+msgstr ""
+
+#: inc/customizer.php:147
+msgid 'Linkedin link'
+msgstr ""
+
+#: inc/customizer.php:157
+msgid 'Google Plus link'
+msgstr ""
+
+#: inc/customizer.php:167
+msgid 'Skype id'
+msgstr ""
+
+#: inc/customizer.php:174
+msgid 'Footer'
+msgstr ""
+
+#: inc/customizer.php:184
+msgid 'Copyright'
+msgstr ""
+
+#: inc/customizer.php:191
+msgid 'Slider'
+msgstr ""
+
+#: inc/customizer.php:193
+msgid 'Recommended image size (1420x567)'
+msgstr ""
+
+#: inc/customizer.php:203
+msgid 'Select page for slide one:'
+msgstr ""
+
+#: inc/customizer.php:214
+msgid 'Select page for slide two:'
+msgstr ""
+
+#: inc/customizer.php:225
+msgid 'Select page for slide three:'
+msgstr ""
+
+#: inc/customizer.php:237
+msgid 'Check this to hide slider'
+msgstr ""
+
+#: inc/customizer.php:243
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:262
+msgid 'Choose category'
+msgstr ""
+
+#: inc/customizer.php:252
+#: inc/customizer.php:280
+msgid 'Section title'
+msgstr ""
+
+#: inc/customizer.php:270
+msgid 'Contact us Page'
+msgstr ""
+
+#: inc/customizer.php:271
+msgid 'Set title and define contact form here by entering shortcode'
+msgstr ""
+
+#: inc/customizer.php:291
+msgid 'Contact form shortcode. Ex.[ninja_forms id=5]'
+msgstr ""
